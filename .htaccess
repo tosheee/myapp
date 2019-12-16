@@ -1,0 +1,5 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/storage/streamli/_projects/myapp"
+PassengerBaseURI "/"
+PassengerRuby "/storage/streamli/rubyvenv/__projects_myapp/2.5/bin/ruby"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
